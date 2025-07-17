@@ -1,0 +1,24 @@
+langchain
+python-dotenv
+duckduckgo_search
+langchain_community
+anthropic
+langchain-anthropic
+langchain-ollama
+ollama
+ddgs
+tqdm
+gitpython
+isort
+black
+faiss-cpu; sys_platform == "darwin"
+faiss-gpu; sys_platform == "linux"
+ruff
+alpaca-py
+requests
+easyocr
+pillow
+opencv-python
+matplotlib
+numpy
+pandas
