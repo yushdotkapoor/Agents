@@ -61,6 +61,12 @@ AGENTS = {
         'module': 'Agents.chart_sniper_agent',
         'function': 'main'
     },
+    'memory-search': {
+        'name': 'Memory Search Chatbot',
+        'description': 'Interactive CLI chatbot with web search capabilities and conversation memory',
+        'module': 'Agents.memory_search_agent',
+        'function': 'main'
+    },
 }
 
 

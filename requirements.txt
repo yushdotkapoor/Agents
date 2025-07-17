@@ -22,3 +22,6 @@ opencv-python
 matplotlib
 numpy
 pandas
+langgraph
+langchain-tavily
+langgraph-checkpoint-sqlite
